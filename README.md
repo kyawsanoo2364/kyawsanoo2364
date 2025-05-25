@@ -8,13 +8,14 @@
 ## ⚙️ Frameworks & Libraries
 - Django
 - Django REST Framework
-- djangorestframework-simplejwt
 - React
 - Next.js
+- Scrapy
 
 ## 🗄️ Databases
 - PostgreSQL
 - SQLite
+- MogoDB
 
 ## 🔧 Tools & Technologies
 - Git & GitHub
