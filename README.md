@@ -11,6 +11,7 @@
 - React
 - Next.js
 - Scrapy
+- Nest.js
 
 ## 🗄️ Databases
 - PostgreSQL
