@@ -7,7 +7,6 @@
 
 ## ⚙️ Frameworks & Libraries
 - Django
-- Django REST Framework
 - React
 - Next.js
 - Scrapy
