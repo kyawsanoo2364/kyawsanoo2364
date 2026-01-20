@@ -4,6 +4,7 @@
 - Python
 - JavaScript
 - HTML / CSS
+- Java
 
 ## ⚙️ Frameworks & Libraries
 - Django
@@ -11,6 +12,7 @@
 - Next.js
 - Scrapy
 - Nest.js
+- Spring Boot
 
 ## 🗄️ Databases
 - PostgreSQL
@@ -24,6 +26,7 @@
 - Linux / Bash
 - VS Code
 
+
 ## 🔐 Authentication
 - JWT
-- OAuth2 (basic)
+- OAuth2 
